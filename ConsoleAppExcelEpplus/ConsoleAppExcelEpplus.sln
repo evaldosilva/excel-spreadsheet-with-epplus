@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppExcelEpplus", "ConsoleAppExcelEpplus\ConsoleAppExcelEpplus.csproj", "{68727CB6-923A-4F10-A6EF-070F869CDFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{71061310-64EF-4B8F-BA1C-E9622E1117FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D971CFA4-A47C-42D0-8FBF-A9A5B12BCCF2}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\README.md = ..\README.md
+		..\readme.txt = ..\readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68727CB6-923A-4F10-A6EF-070F869CDFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68727CB6-923A-4F10-A6EF-070F869CDFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68727CB6-923A-4F10-A6EF-070F869CDFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68727CB6-923A-4F10-A6EF-070F869CDFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71061310-64EF-4B8F-BA1C-E9622E1117FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71061310-64EF-4B8F-BA1C-E9622E1117FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71061310-64EF-4B8F-BA1C-E9622E1117FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71061310-64EF-4B8F-BA1C-E9622E1117FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F585B1A-DEAC-4E96-AF51-4F69001BE827}
+	EndGlobalSection
+EndGlobal
