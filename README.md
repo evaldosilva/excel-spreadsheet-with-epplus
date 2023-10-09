@@ -1,2 +1,2 @@
-# excel-spreadsheet-with-epplus
+# Excel spreadsheets with EPPlus
 Examples of Excel spreadsheets with EPPlus
